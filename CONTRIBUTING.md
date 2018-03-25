@@ -1,0 +1,1 @@
+Any kind of issue or solution to issues in this repository is highly welcomed. You can also contact me directly at offsec.akash@gmail.com to clarify situations or if you need some of the missing files to conduct the excercise. 
